@@ -1,0 +1,1 @@
+<?phpreturn [    'base_url' => env('DISCORD_BASE_URL'),    'oauth_redirect_url' => env('DISCORD_OAUTH_REDIRECT_URL'),    'client_id' => env('DISCORD_CLIENT_ID')];
